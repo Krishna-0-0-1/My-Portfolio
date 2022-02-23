@@ -1,0 +1,11 @@
+#head{
+    background-color:cyan;
+}
+body{
+    background-color: black;
+    font-family: 'Dancing Script', cursive;
+}
+#head.scrolled {
+    background: rgb(182, 62, 182);
+    transition: background 500ms;
+}
